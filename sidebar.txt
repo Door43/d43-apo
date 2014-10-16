@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apo:home|Door43 (apo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apo|d43-apo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apo/archive/master.zip|d43-apo.zip]]
+
+**Recent Changes**
+{{changes>ns = apo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apo|Ethnologue data]]
+
